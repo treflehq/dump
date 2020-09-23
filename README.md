@@ -7,11 +7,15 @@
 
 This is the repository for the [Trefle](https://trefle.io) data.
 
-> This dump has been generated on 2020-09-14
+> This dump has been generated on 2020-09-23
+
+## Disclaimer
+
+This is an early version of the Trefle Data. Schema is subject to change. As it's filled from external database, sources and users, it's not 100% validated or complete.
 
 ## Structure
 
-The database dump is a tab-sperated text file with the following rows:
+The database dump is a tab-separated text file with the following rows:
 
 
 - id
@@ -44,7 +48,6 @@ The database dump is a tab-sperated text file with the following rows:
 - light
 - soil_nutriments
 - soil_salinity
-- planting_sowing_description
 - anaerobic_tolerance
 - atmospheric_humidity
 - average_height_cm
@@ -54,8 +57,18 @@ The database dump is a tab-sperated text file with the following rows:
 - ph_minimum
 - planting_days_to_harvest
 - planting_description
+- planting_sowing_description
 - planting_row_spacing_cm
 - planting_spread_cm
 - synonyms
 - distributions
 - common_names
+- url_usda
+- url_tropicos
+- url_tela_botanica
+- url_powo
+- url_plantnet
+- url_gbif
+- url_openfarm
+- url_catminat
+- url_wikipedia_en
