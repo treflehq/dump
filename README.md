@@ -1,3 +1,9 @@
+> ⚠️ **Unfortunately, Trefle is over for now.**
+> 
+> We didn't got the time or the means to keep the Trefle API online any longer, so after spending months figuring out a solution, we decided to stop there. It has been a great adventure, and we are forever grateful for your support and feedback :pray:
+
+----
+
 
 # Trefle data
 
